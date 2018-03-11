@@ -1,4 +1,18 @@
-﻿using System;
+﻿/*
+ * Jason Thatcher           March 2018
+ * 
+ * program.cs
+ * 
+ * Evaluates a string to determine if 
+ * a pair of numbers in the string add
+ * up to 10 and there are 3-? between
+ * them.  If so returns true.  Else
+ * returns false.
+ * 
+ */
+
+
+using System;
 
 namespace ListOfStringOps
 {
